@@ -1,0 +1,1 @@
+# Párhuzamos programozás Javaban képzés
